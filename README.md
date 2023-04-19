@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @fungc-io
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi! I’m Fung. <br>
+A digital enthusiast who was active in HK's startup scene and recently moved to 🇬🇧 London. Currently the Product Manager of [Authgear](https://github.com/authgear) and [FormX.ai](https://formx.ai).
 
-<!---
-fungc-io/fungc-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me at https://twitter.com/fungc_io
